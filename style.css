@@ -1,0 +1,49 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background: #ffffff;
+}
+
+.container{
+    width: 1040px;
+    height: 100vh;
+    text-align: center;  
+    background: #C1E7E2;
+}
+
+h1{
+    margin: 120px 0 0 50px;
+    font-family: Arial;
+}
+
+.name{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#photo{
+    width: 300px;
+    height: 300px;
+}
+
+.contact{
+    font-size: 18px;
+    font-family: Arial;
+}
+
+a{
+    text-decoration: none;
+    color: #d825e9;
+}
+
+.task{
+    font-size: 18px;
+    margin: 15px;  
+    font-family: Courier;  
+}
